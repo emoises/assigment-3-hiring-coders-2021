@@ -1,0 +1,64 @@
+.mobilefooter{
+    z-index: 50;
+    background: #226228;
+    position: fixed;
+    width: 100vw;
+    height: 100px;
+    bottom: 0;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mobileFooterList{
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center;
+}
+.mobileFooterListItem{
+    text-decoration: none;
+    list-style: none;
+}
+
+.link{
+    font:  sans-serif;
+    font-weight: bold;
+    color: #f2f5f5;
+    text-decoration: none;
+}
+.cadastroContainer{
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20 10px;
+}
+.cadastroField{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 5px;
+}
+.cadastroLabel{
+    font-weight: bold;
+}
+.cadastroInput{
+    width: 300px;
+    height: 35px;
+}
+
+.cadastroButton{
+    color: #f2f5f5;
+    font-weight: bold;
+    border: none;
+    background: #226228;
+    width: 300px;
+    height: 35px;
+}

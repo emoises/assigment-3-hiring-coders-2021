@@ -1,0 +1,39 @@
+{
+    "tab-list.item#1": {
+      "props": {
+        "tabId": "promocao",
+        "label": "Promoção",
+        "defaultActiveTab": false
+      }
+    },
+    "tab-list.item#2": {
+      "props": {
+        "tabId": "corinthians",
+        "label": "Corinthians"
+      }
+    },
+    "tab-list.item#3": {
+      "props": {
+        "tabId": "palmeiras",
+        "label": "palmeiras"
+      }
+    },
+    "tab-list.item#4": {
+      "props": {
+        "tabId": "signos",
+        "label": "Signos"
+      }
+    },
+    "tab-list.item#5": {
+      "props": {
+        "tabId": "divertidosx",
+        "label": "Divertidos"
+      }
+    },
+    "tab-list.item#6": {
+      "props": {
+        "tabId": "7maravilhas",
+        "label": "7 Maravilhas"
+      }
+    }
+}

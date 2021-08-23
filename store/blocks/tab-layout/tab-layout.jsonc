@@ -1,0 +1,34 @@
+{
+  
+    "tab-layout#tab":{
+        
+        "children":[
+            "tab-list",
+            "slider-layout#promo-slider",
+            "tab-content"
+        ]
+    },
+    "tab-list": {
+        "children": [
+          "tab-list.item#1",
+          "tab-list.item#2",
+          "tab-list.item#3",
+          "tab-list.item#4",
+          "tab-list.item#5",
+          "tab-list.item#6"
+          ],
+          "props":{
+              "blockClass": "navigationBar"
+          }
+      },
+      "tab-content": {
+        "children": [
+          "tab-content.item#1",
+          "tab-content.item#2",
+          "tab-content.item#3",
+          "tab-content.item#4",
+          "tab-content.item#5",
+          "tab-content.item#6"
+          ]
+      }
+}

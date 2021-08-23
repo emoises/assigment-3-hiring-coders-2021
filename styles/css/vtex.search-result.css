@@ -1,0 +1,9 @@
+.searchResultContainer{
+    width: 75vw;
+}
+.galleryItem {
+    background: #f2f5f5;
+    margin: 5px 5px;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}

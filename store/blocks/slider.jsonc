@@ -1,0 +1,82 @@
+{
+    "slider-layout#promo-slider": {
+        "props": {
+          "itemsPerPage": {
+            "desktop": 1,
+            "tablet": 1,
+            "phone": 1
+          },
+          "infinite": true,
+          "showNavigationArrows": "desktopOnly",
+          "fullWidth": true,
+          
+          "blockClass": "carousel"
+        },
+        "children": [
+          // "info-card#slide-001",
+          "info-card#slide-002",
+          "info-card#slide-003"
+        ]
+      },
+      "info-card#slide-001": {
+        "props": {
+          "isFullModeStyle": true,
+          "textPosition": "right",
+          "imageUrl": "assets/banner-001.png",
+          // "imageUrl": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "headline": "Promoção",
+          "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
+          "callToActionMode": "button",
+          "callToActionText": "Explore",
+          "callToActionUrl": "/sale/d",
+          "textAlignment": "center"
+        }
+      },
+      "info-card#slide-002": {
+        "props": {
+          "isFullModeStyle": true,
+          "textPosition": "right",
+          "imageUrl": "assets/BANNER-WOOD.png",
+          // "imageUrl": "https://images.unsplash.com/photo-1539922980492-38f6673af8dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "headline": "Black Friday",
+          "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
+          "callToActionMode": "button",
+          "callToActionText": "Explore",
+          "callToActionUrl": "/sale/d",
+          "textAlignment": "center"
+        }
+      },
+      "info-card#slide-003": {
+        "props": {
+          "isFullModeStyle": true,
+          "textPosition": "right",
+          // "imageUrl": "https://images.unsplash.com/photo-1602028617950-0ed35e50e460?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "imageUrl": "assets/BANNER-PROMO.png",
+          "headline": "Queima de Estoque",
+          "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
+          "callToActionMode": "button",
+          "callToActionText": "Explore",
+          "callToActionUrl": "/sale/d",
+          "textAlignment": "center",
+          "width": "100%"
+        }
+      }
+      
+      // "image#slider-001":{
+      //   "props": {
+      //       "src": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+      //     }
+      // },
+      // "image#slider-002":{
+      //   "props": {
+      //       "src": "https://images.unsplash.com/photo-1539922980492-38f6673af8dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+            
+      //     }
+      // },
+      // "image#slider-003":{
+      //   "props": {
+      //       "src": "https://images.unsplash.com/photo-1602028617950-0ed35e50e460?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+           
+      //     }
+      // }
+    }

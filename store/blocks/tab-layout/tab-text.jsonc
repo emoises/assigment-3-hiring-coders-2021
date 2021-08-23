@@ -1,0 +1,86 @@
+{
+    "rich-text#1": {
+        "props": {
+          "text": "Texto para Major Appliances",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#home1": {
+        "props": {
+          "text": "Área do conteúdo da tab-list.item com  tabId = majorAppliances",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#2": {
+        "props": {
+          "text": "Texto para Electronics",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+    },
+    "rich-text#home2": {
+      "props": {
+        "text": "Área do conteúdo da tab-list.item com  tabId = electronics",
+        "textPosition": "CENTER",
+        "font": "t-heading-3"
+      }
+    },
+      "rich-text#3": {
+        "props": {
+          "text": "Texto para refrigerator",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#home3": {
+        "props": {
+          "text": "Área do conteúdo da tab-list.item com  tabId = refrigerators",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#4": {
+        "props": {
+          "text": "Texto para Video Games",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#home4": {
+        "props": {
+          "text": "Área do conteúdo da tab-list.item com  tabId = videogames",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#5": {
+        "props": {
+          "text": "Texto para Cooffe Machines",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#home5": {
+        "props": {
+          "text": "Área do conteúdo da tab-list.item com  tabId = cooffemachines",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#6": {
+        "props": {
+          "text": "Texto para Vestuary",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      },
+      "rich-text#home6": {
+        "props": {
+          "text": "Área do conteúdo da tab-list.item com  tabId = vestuary",
+          "textPosition": "CENTER",
+          "font": "t-heading-3"
+        }
+      }
+}

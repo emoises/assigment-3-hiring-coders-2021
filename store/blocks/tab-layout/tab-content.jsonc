@@ -1,0 +1,50 @@
+{
+    "tab-content.item#1": {
+        "children": [
+          "search-result-layout.customQuery#home"
+        ],
+        "props": {
+          "tabId": "promocao"
+        }
+      },
+      "tab-content.item#2": {
+        "children": [
+          // "search-result-layout.customQuery#home"
+        ],
+        "props": {
+          "tabId": "corinthians"
+        }
+      },
+      "tab-content.item#3": {
+        "children": [
+          "rich-text#3"
+        ],
+        "props": {
+          "tabId": "palmeiras"
+        }
+      },
+      "tab-content.item#4": {
+        "children": [
+          "rich-text#4"
+        ],
+        "props": {
+          "tabId": "signos"
+        }
+      },
+      "tab-content.item#5": {
+        "children": [
+          // "search-result-layout.customQuery#coffee"
+        ],
+        "props": {
+          "tabId": "divertidos"
+        }
+      },
+      "tab-content.item#6": {
+        "children": [
+          "rich-text#6"
+        ],
+        "props": {
+          "tabId": "7maravilhas"
+        }
+      }
+}

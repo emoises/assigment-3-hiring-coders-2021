@@ -1,0 +1,11 @@
+.flexRowContent--container-header{
+    height: 60px;
+    background: #226228;
+}
+
+.flexRow--desktop-footer{
+    margin: 0;
+    padding: 0 0 100px 0;
+    bottom: 0;
+    background: #226228;
+}

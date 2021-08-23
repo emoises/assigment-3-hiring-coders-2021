@@ -1,0 +1,44 @@
+{
+  "footer": {
+    "blocks": ["footer-layout.desktop", "footer-layout.mobile"]
+  },
+  "footer-layout.desktop": { 
+    "children": [
+      "flex-layout.row#footer",
+      "mobile-footer"
+    ],
+    "props": {
+      "blockClass": "desktop-footer"
+    }
+  },
+  "footer-layout.mobile": { 
+    "children": [
+      "mobile-footer"
+    ]
+  },
+  "flex-layout.row#footer": { 
+    "children": [
+      "image#linkedin",
+      "image#github"
+    ],
+    "props": {
+      "blockClass": "desktop-footer"
+    }
+  },
+  "image#linkedin": {
+    "props": {
+      "width": 100,
+      "heigth": 100,
+      "src": "assets/linkedin-icon.png",
+      "link": "https://www.linkedin/in/eduardomoises"
+    }
+  },
+  "image#github": {
+    "props": {
+      "width": 100,
+      "heigth": 100,
+      "src": "assets/github-icon.png",
+      "link": "https://github.com/emoises"
+    }
+  }
+}
